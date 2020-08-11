@@ -32,15 +32,16 @@ import haSDK from 'react-native-ha-interface';
 haSDK.onEvent('testDtmEvent', obj);
 ```
 ### Official HMS Resources
+
 Dynamic Tag Manager:
-Codelab: https://developer.huawei.com/consumer/en/codelab/HMSDTMKit/index.html#7
-Document: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907
-SDK Library: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Library-V5/sdk-download-0000001050174612-V5
+- Codelab: https://developer.huawei.com/consumer/en/codelab/HMSDTMKit/index.html#7
+- Document: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907
+- SDK Library: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Library-V5/sdk-download-0000001050174612-V5
 
 Analytics Kit:
-Codelab: https://developer.huawei.com/consumer/en/codelab/HMSAnalyticsKit-ReactNative/index.html#0
-Document: https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/react-native-development
-SDK Library: https://developer.huawei.com/consumer/en/codelab/HMSAnalyticsKit-ReactNative/index.html#2
+- Codelab: https://developer.huawei.com/consumer/en/codelab/HMSAnalyticsKit-ReactNative/index.html#0
+- Document: https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/react-native-development
+- SDK Library: https://developer.huawei.com/consumer/en/codelab/HMSAnalyticsKit-ReactNative/index.html#2
 
 ### Demo
 ![alt text](https://github.com/simgekeser/React-native-hms-dtm/blob/master/screenshots/testDtmEvent.png)
